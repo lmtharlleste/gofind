@@ -1,0 +1,698 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db.base",
+        "description": "db.base",
+        "isExtraImport": true,
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db.base",
+        "description": "db.base",
+        "isExtraImport": true,
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models.user_model",
+        "description": "db.models.user_model",
+        "isExtraImport": true,
+        "detail": "db.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models.user_model",
+        "description": "db.models.user_model",
+        "isExtraImport": true,
+        "detail": "db.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db.session",
+        "description": "db.session",
+        "isExtraImport": true,
+        "detail": "db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db.session",
+        "description": "db.session",
+        "isExtraImport": true,
+        "detail": "db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "isExtraImport": true,
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "isExtraImport": true,
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "isExtraImport": true,
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "core.security",
+        "description": "core.security",
+        "isExtraImport": true,
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "user_routes",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "auth_routes",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.c16a3d52a463_create_user_model",
+        "description": "alembic.versions.c16a3d52a463_create_user_model",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('full_name', sa.String(), nullable=True),\n    sa.Column('email', sa.String(), nullable=True),\n    sa.Column('cpf', sa.String(), nullable=True),\n    sa.Column('address', sa.String(), nullable=True),\n    sa.Column('hashed_password', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "alembic.versions.c16a3d52a463_create_user_model",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.c16a3d52a463_create_user_model",
+        "description": "alembic.versions.c16a3d52a463_create_user_model",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_users_id'), table_name='users')\n    op.drop_index(op.f('ix_users_full_name'), table_name='users')\n    op.drop_index(op.f('ix_users_email'), table_name='users')\n    op.drop_index(op.f('ix_users_cpf'), table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.c16a3d52a463_create_user_model",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection, target_metadata=target_metadata",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# Add your model's MetaData object here for 'autogenerate' support\ntarget_metadata = Base.metadata  # Use a metadata do seu base\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata  # Use a metadata do seu base\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "api.v1.auth_routes",
+        "description": "api.v1.auth_routes",
+        "peekOfCode": "def login(user: UserLogin, db: Session = Depends(get_db)):\n    # Busca o usuário pelo email\n    db_user = get_user_by_email(db, email=user.email)\n    # Verifica se o usuário existe e se a senha está correta\n    if not db_user or not pwd_context.verify(user.password, db_user.hashed_password):\n        raise HTTPException(status_code=400, detail=\"Invalid email or password\")\n    # Gera o token de acesso (JWT) com o email do usuário\n    access_token = create_access_token(data={\"sub\": db_user.email})\n    return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "api.v1.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.auth_routes",
+        "description": "api.v1.auth_routes",
+        "peekOfCode": "router = APIRouter()\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n@router.post(\"/login\")\ndef login(user: UserLogin, db: Session = Depends(get_db)):\n    # Busca o usuário pelo email\n    db_user = get_user_by_email(db, email=user.email)\n    # Verifica se o usuário existe e se a senha está correta\n    if not db_user or not pwd_context.verify(user.password, db_user.hashed_password):\n        raise HTTPException(status_code=400, detail=\"Invalid email or password\")\n    # Gera o token de acesso (JWT) com o email do usuário",
+        "detail": "api.v1.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "api.v1.auth_routes",
+        "description": "api.v1.auth_routes",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n@router.post(\"/login\")\ndef login(user: UserLogin, db: Session = Depends(get_db)):\n    # Busca o usuário pelo email\n    db_user = get_user_by_email(db, email=user.email)\n    # Verifica se o usuário existe e se a senha está correta\n    if not db_user or not pwd_context.verify(user.password, db_user.hashed_password):\n        raise HTTPException(status_code=400, detail=\"Invalid email or password\")\n    # Gera o token de acesso (JWT) com o email do usuário\n    access_token = create_access_token(data={\"sub\": db_user.email})",
+        "detail": "api.v1.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "api.v1.user_routes",
+        "description": "api.v1.user_routes",
+        "peekOfCode": "def register_user(user: UserCreate, db: Session = Depends(get_db)):\n    db_user = get_user_by_email(db, email=user.email)\n    if db_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(db=db, user=user)",
+        "detail": "api.v1.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.user_routes",
+        "description": "api.v1.user_routes",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/users/\", response_model=UserResponse)\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    db_user = get_user_by_email(db, email=user.email)\n    if db_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(db=db, user=user)",
+        "detail": "api.v1.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the FastAPI application!\"}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\nrouter_prefix = \"/api/v1\"\napp.include_router(user_routes.router, prefix=router_prefix)\napp.include_router(auth_routes.router, prefix=router_prefix)\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Welcome to the FastAPI application!\"}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "router_prefix",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "router_prefix = \"/api/v1\"\napp.include_router(user_routes.router, prefix=router_prefix)\napp.include_router(auth_routes.router, prefix=router_prefix)\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Welcome to the FastAPI application!\"}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    DATABASE_URL: str = \"postgresql://tharlles_admin:LiLEXXhP2727@localhost:5432/gifinddb\"\n    JWT_SECRET: str = \"62de3c1bf598e60d868d50679254ebf1\"  # Use um valor seguro para produção\n    ALGORITHM: str = \"HS256\"\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60\n    class Config:\n        env_file = \".env\"  # Se você usar um arquivo .env para gerenciar variáveis de ambiente\nsettings = Settings()",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=15)  # Token expira em 15 minutos\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, settings.JWT_SECRET, algorithm=settings.ALGORITHM)  # Corrigido aqui\n    return encoded_jwt",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "peekOfCode": "def create_user(db: Session, user: UserCreate):\n    hashed_password = pwd_context.hash(user.password)  # Criptografa a senha\n    db_user = User(\n        full_name=user.full_name,\n        email=user.email,\n        cpf=user.cpf,\n        address=user.address,\n        hashed_password=hashed_password\n    )\n    db.add(db_user)",
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "peekOfCode": "def get_user(db: Session, username: str):\n    return db.query(User).filter(User.username == username).first()\ndef get_user_by_email(db: Session, email: str):\n    return db.query(User).filter(User.email == email).first()\ndef get_users(db: Session, skip: int = 0, limit: int = 10):\n    return db.query(User).offset(skip).limit(limit).all()",
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "kind": 2,
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "peekOfCode": "def get_user_by_email(db: Session, email: str):\n    return db.query(User).filter(User.email == email).first()\ndef get_users(db: Session, skip: int = 0, limit: int = 10):\n    return db.query(User).offset(skip).limit(limit).all()",
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "peekOfCode": "def get_users(db: Session, skip: int = 0, limit: int = 10):\n    return db.query(User).offset(skip).limit(limit).all()",
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "crud.user_crud",
+        "description": "crud.user_crud",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef create_user(db: Session, user: UserCreate):\n    hashed_password = pwd_context.hash(user.password)  # Criptografa a senha\n    db_user = User(\n        full_name=user.full_name,\n        email=user.email,\n        cpf=user.cpf,\n        address=user.address,\n        hashed_password=hashed_password\n    )",
+        "detail": "crud.user_crud",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "db.models.user_model",
+        "description": "db.models.user_model",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    full_name = Column(String, index=True)  # Nome completo\n    email = Column(String, unique=True, index=True)  # Email\n    cpf = Column(String, unique=True, index=True)  # CPF\n    address = Column(String)  # Endereço\n    hashed_password = Column(String)  # Senha",
+        "detail": "db.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "db.base",
+        "description": "db.base",
+        "peekOfCode": "Base = declarative_base()\n# Create the database engine\nengine = create_engine(settings.DATABASE_URL)\n# Create a configured \"Session\" class\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "db.base",
+        "description": "db.base",
+        "peekOfCode": "engine = create_engine(settings.DATABASE_URL)\n# Create a configured \"Session\" class\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "db.base",
+        "description": "db.base",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "db.session",
+        "description": "db.session",
+        "peekOfCode": "def get_db() -> Generator[Session, None, None]:  # Especificando o tipo de retorno como Generator\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "db.session",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserBase(BaseModel):\n    full_name: str  # Nome completo\n    email: EmailStr  # Email com validação\n    cpf: str  # CPF\n    address: str  # Endereço\nclass UserCreate(UserBase):\n    password: str  # Campo para a senha que será enviada na criação\nclass UserResponse(UserBase):\n    id: int  # ID do usuário\n    class Config:",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str  # Campo para a senha que será enviada na criação\nclass UserResponse(UserBase):\n    id: int  # ID do usuário\n    class Config:\n        orm_mode = True\nclass UserLogin(BaseModel):\n    email: str\n    password: str",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: int  # ID do usuário\n    class Config:\n        orm_mode = True\nclass UserLogin(BaseModel):\n    email: str\n    password: str",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: str\n    password: str",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    }
+]

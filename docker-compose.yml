@@ -1,0 +1,24 @@
+# docker-compose.yml
+
+version: '3.8'
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - .:/app
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: tharlles_admin
+      POSTGRES_PASSWORD: LiLEXXhP2727
+      POSTGRES_DB: gifinddb
+    ports:
+      - "5432:5432"
